@@ -1,1 +1,1 @@
-# https://sohyun.github.io/
+# sohyun.github.io/
